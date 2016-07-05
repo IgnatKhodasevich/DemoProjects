@@ -1,0 +1,19 @@
+#enterForm {
+	
+	text-align: center;
+}
+
+#regButton {
+
+	text-align: center;
+}
+
+#sign {
+	width: 100px;
+}
+
+#reg {
+	width: 100px;
+}
+
+html { height: 100%; }
